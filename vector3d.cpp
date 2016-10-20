@@ -1,6 +1,8 @@
 #include "vector3d.hpp"
 
 #include <cmath>
+#include <math.h>
+
 
 const vector3d vector3d::X = {1, 0, 0};
 const vector3d vector3d::Y = {0, 1, 0};
